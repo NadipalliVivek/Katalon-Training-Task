@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sample</name>
+   <tag></tag>
+   <elementGuidId>a06737ae-acb2-4432-a8a3-08fc27964a40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='rpbModuleItems']/ul/li[1]/div/ul/li[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='rpbModuleItems']/ul/li[1]/div/ul/li[1]/a</value>
+   </webElementProperties>
+</WebElementEntity>

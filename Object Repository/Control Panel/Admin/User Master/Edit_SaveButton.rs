@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit_SaveButton</name>
+   <tag></tag>
+   <elementGuidId>986cf976-6023-4308-8745-dbc5161f1b38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='ctl00_ContentPlaceHolder1_rbtnSubmit_input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='ctl00_ContentPlaceHolder1_rbtnSubmit_input']</value>
+   </webElementProperties>
+</WebElementEntity>
