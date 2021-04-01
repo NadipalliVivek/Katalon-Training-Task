@@ -25,7 +25,7 @@ import logInToTheApplication.logIn
 class Prepost_Conditions 
 {
 	
-	@BeforeTestCase
+//	@BeforeTestCase
 	def beforetestcase()
 	{
 		logIn.logInValidation()

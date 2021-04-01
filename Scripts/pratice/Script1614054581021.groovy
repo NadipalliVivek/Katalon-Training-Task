@@ -35,5 +35,9 @@ import logInToTheApplication.logIn as logIn
 
 //UserMaster.navigateToUserMaster()
 //UserMaster.addUser()
-WebUI.openBrowser('http://qa-auto.astorsafe.com/Login.aspx')
+//WebUI.openBrowser('http://qa-auto.astorsafe.com/Login.aspx')
 //logIn.logInToTheApplication('administrator', 'Automation@2021')
+
+
+for(i=1;i<5;i++)
+{ print '*'}
